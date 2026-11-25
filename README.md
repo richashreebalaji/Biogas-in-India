@@ -47,7 +47,8 @@ processing to energy production and distribution.
 
 ## Project Report
 
-[Read the full project report](biogas-report.pdf)
+[Biogas Report.pdf](https://github.com/user-attachments/files/35431625/Biogas.Report.pdf)
+
 
 ## My Contribution
 
