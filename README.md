@@ -1,23 +1,30 @@
-# Biogas-in-India
-Examined the role and potential of Biogas in India's renewable energy landscape, particularly its contribution to circular economy.
+# Why-Biogas
+ India’s waste problem is growing faster than we realize, with waste from households, farms, and
+industries piling up in landfills. . These landfills are not just storage spaces , but also actively
+pollute the soil, air and water surrounding it. Biogas offers a powerful shift where waste is transformed into energy through the biogas
+system. It has significant environmental benefits as it reduces greenhouse gas emissions by
+60-80% when used as a compressed fuel in transportation instead of Petrol and Diesel.
 
 # The Role of Biogas in India
 
-An undergraduate group project exploring
-biogas as a waste-to-energy solution in India
-and its environmental, economic and social
-implications.
+Biogas has a significant potential for waste-to-energy solutions and contributing to the circular economy in India. However, practice remains significantly low, with only about 1% of
+Indians currently using biogas for cooking, indicating that even when a solution exists, it has not
+reached its full scale potential yet. Sumedh, the vice president of GPS renewables says “There
+was absolutely nothing in 2014-15 in the Biogas Industry when I started. It was mainly gobar
+gas. The Biogas Industry has grown tremendously since then.
 
 ## Project Overview
 
 This project examines the biogas ecosystem in
 India, from organic waste collection and
-processing to energy production and distribution.
+processing to energy production and distribution. It explores
+biogas as a waste-to-energy solution in India
+and its environmental, economic and social
+implications.
 
 ## Methodology
 
-- Field visit to the Carbon Masters and Hasiru
-  Dala Innovations biogas plant in Harohalli.
+- Field visit to the Carbon Masters biogas plant in Harohalli.
 - Interviews with industry stakeholders,
   including GPS Renewables.
 - Stakeholder mapping and analysis.
